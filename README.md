@@ -1,26 +1,6 @@
-# Bot Telegram
+# Software
 
-```dockerfile
-FROM ubuntu
-
-WORKDIR /app/
-
-ADD * /app/
-
-RUN apt-get update
-
-RUN apt-get install -y \
-    sudo \
-    wget \
-    neofetch 
-
-RUN wget https://github.com/azkadev/bot_telegram/releases/download/linux-latest/tg-bot-linux.deb
-RUN sudo dpkg --force-all -i ./tg-bot-linux.deb
-
-CMD ["tg-bot"]
-
-```
-
+Semua software yang ada disini berbayar tidak ada yang gratis
 
 ```dockerfile
 FROM ubuntu
