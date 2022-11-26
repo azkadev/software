@@ -29,7 +29,7 @@
 ---
 
 # Software
-Semua software yang ada disini berbayar tidak ada yang gratis
+Semua software yang ada disini berbayar tidak ada yang gratis, Dan semua software disini tidak open source 
 
 List Software tersedia:
 
