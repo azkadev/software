@@ -33,7 +33,7 @@ Semua software yang ada disini berbayar tidak ada yang gratis, Dan semua softwar
 
 List Software tersedia:
 
-## Telegram
+## Telegram Bot And Userbot
 Telegram bot & userbot unlimited account (tergantung specs pc)
 
 jika anda ingin satu type maka harga di kurang 50k
