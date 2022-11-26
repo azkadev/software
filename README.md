@@ -63,4 +63,5 @@ Daftar UserBot Feature Sudah Tersedia:
 5. Chatbot
 
 
-Jika anda berminat beli software disini silahkan ya chat ke akun telegram, btw kalian bebas request feature ya namun kalian wajib donate seiklashnya untuk penambahan feature
+Jika anda berminat beli software disini silahkan ya chat ke akun telegram, btw kalian bebas request feature ya namun kalian wajib donate seiklashnya untuk penambahan feature,
+
