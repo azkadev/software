@@ -1,67 +1,43 @@
-<p align="center">
-    <a href="https://github.com/azkadev">
-        <img src="https://telegra.ph/file/e90bdeab8390b8c0d9df2.png" alt="Specta"
-            width="312"
-            height="312">
-    </a>
-    <br>
-    <a href="https://youtube.com/c/galaxeus">
-        <img
-            src="https://raw.githubusercontent.com/azkadev/azkadev/main/assets/images/powered_galaxeus.png"
-            alt="galaxeus"
-            width="350"
-            height="80"
-        >
-    </a>
-    <br>
-    <b>Author Azkadev 🔥</b>
-    <br>
-</p>
- 
+PHAgYWxpZ249ImNlbnRlciI+CiAgICA8YSBocmVmPSJodHRwczovL2dpdGh1
+Yi5jb20vYXprYWRldiI+CiAgICAgICAgPGltZyBzcmM9Imh0dHBzOi8vdGVs
+ZWdyYS5waC9maWxlL2U5MGJkZWFiODM5MGI4YzBkOWRmMi5wbmciIGFsdD0i
+U3BlY3RhIgogICAgICAgICAgICB3aWR0aD0iMzEyIgogICAgICAgICAgICBo
+ZWlnaHQ9IjMxMiI+CiAgICA8L2E+CiAgICA8YnI+CiAgICA8YSBocmVmPSJo
+dHRwczovL3lvdXR1YmUuY29tL2MvZ2FsYXhldXMiPgogICAgICAgIDxpbWcK
+ICAgICAgICAgICAgc3JjPSJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVu
+dC5jb20vYXprYWRldi9hemthZGV2L21haW4vYXNzZXRzL2ltYWdlcy9wb3dl
+cmVkX2dhbGF4ZXVzLnBuZyIKICAgICAgICAgICAgYWx0PSJnYWxheGV1cyIK
+ICAgICAgICAgICAgd2lkdGg9IjM1MCIKICAgICAgICAgICAgaGVpZ2h0PSI4
+MCIKICAgICAgICA+CiAgICA8L2E+CiAgICA8YnI+CiAgICA8Yj5BdXRob3Ig
+QXprYWRldiDwn5SlPC9iPgogICAgPGJyPgo8L3A+CiAKCiMjIyBTdXBwb3J0
+Cj4gVG9sb25nIGJlcmkgc2F5YSBkdWt1bmdhbiBkZW5nYW4gY2FyYSBmb2xs
+b3cgdXAgc2VtdWEgc29jaWFsIG1lZGlhIHNheWEgLyBkb25hdGUgZGkgZ2l0
+aHViIHlhCgojIyMgU29jaWFsIE1lZGlhIE1lCgoxLiBbWW91dHViZV0oaHR0
+cHM6Ly95b3V0dWJlLmNvbS9AYXprYWRldikKMi4gW1RlbGVncmFtXShodHRw
+czovL3QubWUvYXprYWRldikKLS0tCgojIFNvZnR3YXJlClNlbXVhIHNvZnR3
+YXJlIHlhbmcgYWRhIGRpc2luaSBiZXJiYXlhciB0aWRhayBhZGEgeWFuZyBn
+cmF0aXMsIERhbiBzZW11YSBzb2Z0d2FyZSBkaXNpbmkgdGlkYWsgb3BlbiBz
+b3VyY2UgCgpMaXN0IFNvZnR3YXJlIHRlcnNlZGlhOgoKIyMgVGVsZWdyYW0g
+Qm90IEFuZCBVc2VyYm90ClRlbGVncmFtIGJvdCAmIHVzZXJib3QgdW5saW1p
+dGVkIGFjY291bnQgKHRlcmdhbnR1bmcgc3BlY3MgcGMpCgpqaWthIGFuZGEg
+aW5naW4gc2F0dSB0eXBlIG1ha2EgaGFyZ2EgZGkga3VyYW5nIDUwawoKMS4g
+MTAwayAvIDEgYnVsYW4KMi4gMzUwayAvIDQgYnVsYW4KMy4gNTUwayAvIDgg
+YnVsYW4KNi4gODUwayAvIDEyIGJ1bGFuIC8gMSB0YWh1bgo3LiAxMCBqdCBM
+aWZlIHRpbWUgKEFrdGlmIHNlbGFtYW55YSkKCkhhcmdhIGRpIGF0YXMgc3Vk
+YWggdGVybWFzdWsgdXBkYXRlIGRhbiBmaXggYnVnIGppa2EgYWRhIGJ1Zy4K
+CkRhZnRhciBib3QgdHlwZSB5YW5nIHN1ZGFoIHRlcnNlZGlhCgoxLiBHcm91
+cCBDaGFubmVsIE1hbmFnZSAoTGViaWggYmFueWFrIGZlYXR1cmUgZGFyaSBn
+cm91cCBoZWxwKQoyLiBBdXRvIEZvcndhcmQgKCBVbmxpbWl0ZWQgY2hhdCwg
+YmViYXMgY2hhdCBpZCkKMy4gRm9yY2UgU3Vic2NyaWJlIChVbmxpbWl0ZWQg
+Q2hhdCkKNC4gRmlsZSBzaGFyZQo1LiBDaGF0Ym90CgpEYWZ0YXIgVXNlckJv
+dCBGZWF0dXJlIFN1ZGFoIFRlcnNlZGlhOgoKMS4gU291bmRpbmcgZ3JvdXAg
+LyBEZWxheSBTcGFtIAoyLiBhdXRvIERlbGV0ZQozLiBBZmsgUGVzYW4KNC4g
+SW5pdCBQZXNhbgo1LiBDaGF0Ym90CgoKSmlrYSBhbmRhIGJlcm1pbmF0IGJl
+bGkgc29mdHdhcmUgZGlzaW5pIHNpbGFoa2FuIHlhIGNoYXQga2UgYWt1biB0
+ZWxlZ3JhbSwgYnR3IGthbGlhbiBiZWJhcyByZXF1ZXN0IGZlYXR1cmUgeWEg
+bmFtdW4ga2FsaWFuIHdhamliIGRvbmF0ZSBzZWlrbGFzaG55YSB1bnR1ayBw
+ZW5hbWJhaGFuIGZlYXR1cmUsCgo=
 
-### Support
-> Tolong beri saya dukungan dengan cara follow up semua social media saya / donate di github ya
-
-### Social Media Me
-
-1. [Youtube](https://youtube.com/@azkadev)
-2. [Telegram](https://t.me/azkadev)
----
-
-# Software
-Semua software yang ada disini berbayar tidak ada yang gratis, Dan semua software disini tidak open source 
-
-List Software tersedia:
-
-## Telegram Bot And Userbot
-Telegram bot & userbot unlimited account (tergantung specs pc)
-
-jika anda ingin satu type maka harga di kurang 50k
-
-1. 100k / 1 bulan
-2. 350k / 4 bulan
-3. 550k / 8 bulan
-6. 850k / 12 bulan / 1 tahun
-7. 10 jt Life time (Aktif selamanya)
-
-Harga di atas sudah termasuk update dan fix bug jika ada bug.
-
-Daftar bot type yang sudah tersedia
-
-1. Group Channel Manage (Lebih banyak feature dari group help)
-2. Auto Forward ( Unlimited chat, bebas chat id)
-3. Force Subscribe (Unlimited Chat)
-4. File share
-5. Chatbot
-
-Daftar UserBot Feature Sudah Tersedia:
-
-1. Sounding group / Delay Spam 
-2. auto Delete
-3. Afk Pesan
-4. Init Pesan
-5. Chatbot
-
-
-Jika anda berminat beli software disini silahkan ya chat ke akun telegram, btw kalian bebas request feature ya namun kalian wajib donate seiklashnya untuk penambahan feature,
-
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
